@@ -1,0 +1,128 @@
+body {
+    font-family: 'Anuphan', sans-serif;
+    background-color: rgb(201, 191, 191);
+    
+    
+}
+header {
+    width: 100%;
+   
+}
+.setting {
+    text-align: center;
+}
+.konto {
+    float: left;
+    width: 95%;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 25px;
+    display: flex;
+    height: 150px;
+    margin-top: 100px;
+   
+}
+.nm {
+    margin-left: 350px;
+    font-size: 50px;
+}
+.samsung {
+    font-size: 20px;
+    margin-left: -370px;
+    margin-top: 100px;
+    color: darkgrey;
+}
+.natan {
+    border-radius: 55px;
+    height: 110px;
+    margin-top: 25px;
+    margin-left: 250px;
+}
+.ochrona {
+    float: left;
+    width: 95%;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 25px;
+    display: flex;
+    height: 150px;
+    margin-top: 40px;
+}
+.chron {
+    margin-left: 340px;
+    font-size: 35px;
+}
+.sugestie {
+    font-size: 20px;
+    margin-left: -550px;
+    margin-top: 110px;
+    color: darkgrey;
+}
+.stars {
+    margin-left: 450px;
+    height: 110px;
+    margin-top: 25px;
+}
+.search {
+    margin-left: 1200px;
+}
+.polaczenie {
+    float: left;
+    width: 95%;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 25px;
+    display: flex;
+    height: 280px;
+    margin-top: 40px;
+}
+.wi-fi {
+    margin-left: 450px;
+    font-size: 50px;
+}
+
+li {
+    margin: 15px;
+    color: darkgray;
+    font-size: 20px;
+}
+
+.int {
+    display: flex;
+    font-display: row;
+    margin-top: 90px;
+    margin-left: -330px;
+    
+
+}
+.internet {
+    margin-left: -600px;
+    margin-top: 20px;
+    border-radius: 10px;
+} 
+.gowno {
+    background-color: black;
+    width: 100%;
+    height: 5px;
+}
+.xd {
+    color: black;
+    font-size: 0px;
+}
+.dzwieki {
+    margin-left: -360px;
+    font-size: 40px;
+    margin-top: 150px;
+}
+.dzwonek {
+    display: flex;
+    font-display: row;
+    margin-top: 190px;
+    margin-left: -330px;
+}
+.sound {
+    height: 96px;
+    margin-left: -550px;
+    margin-top: 150px;
+    border-radius: 10px;
+}
